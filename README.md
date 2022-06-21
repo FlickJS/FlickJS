@@ -6,7 +6,7 @@ I'm junior front-end developer based in Poland, Lodz.
 - SCSS/LESS
 - GULP
 - Wordpress 
-- JavaScript ES6 (Currently learning)
+- JavaScript ES6 (Currently mastering)
 - React and Typescript (Soon)
 - Node.js (Future)
 
