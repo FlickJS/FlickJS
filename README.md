@@ -2,8 +2,8 @@
 I'm junior front-end developer based in Poland, Lodz.
 
 ## My tech stack:
-- HTML, BEM
-- SCSS/LESS
+- HTML, BEM, RWD
+- CSS, SCSS/LESS
 - GULP
 - Wordpress 
 - JavaScript ES6 (Currently mastering)
