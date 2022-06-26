@@ -7,7 +7,7 @@ I'm junior front-end developer based in Poland, Lodz.
 - GULP
 - Wordpress 
 - JavaScript ES6 (Currently mastering)
-- React and Typescript (Soon)
+- React and Typescript (Currently learning react.js)
 - Node.js (Future)
 
 ## My links:
