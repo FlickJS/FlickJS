@@ -4,7 +4,7 @@
 I am a front-end developer from Poland living in Łódź. Currently focusing on React.js 😎.
 
 ## 🛠 Advanced Skills
-- HTML
+- HTML, BEM
 - CSS/LESS/SCSS
 - RWD
 ## 🛠 Intermediate Skills
