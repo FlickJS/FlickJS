@@ -6,10 +6,10 @@ I am a front-end developer from Poland living in Łódź. Currently focusing on 
 ## 🛠 Advanced Skills
 - HTML, BEM
 - CSS/LESS/SCSS
+- JavaScript (ES6)
 - RWD
 ## 🛠 Intermediate Skills
 - GIT
-- JavaScript (ES6)
 ## 🛠 Other skills and mostly basic knowledge of them.
 - Wordpress (ACF/Twig)
 - Jquery
