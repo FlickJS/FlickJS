@@ -18,7 +18,10 @@ I am a front-end developer from Poland living in Łódź. Currently focusing on 
 - Figma/Photoshop
 - React.js (Currently learning - will update soon with some projects 🧐)
 
-
+## 🛠 Tools
+- Node Version Manager
+- GitHub Copilot (sometimes it's actually useful!)
+- For VSC: Auto Rename Tag, colorize, Image preview, GitLens and more...
 
 
 ## 🔗 Links
