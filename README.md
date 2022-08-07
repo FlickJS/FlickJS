@@ -9,12 +9,10 @@ I am a front-end developer from Poland living in Łódź. Currently focusing on 
 - JavaScript (ES6)
 ## 🛠 Intermediate Skills
 - GIT/BitBucket, Jira
+- Wordpress (ACF)
 ## 🛠 Other skills and mostly basic knowledge of them.
-- Wordpress (ACF/Twig)
-- Jquery
-- Pug.js
-- Gulp
-- Figma/Photoshop
+- Twig, PHP
+- Jquery, Pug.js, Gulp, Figma, Adobe Photoshop
 - React.js (Currently learning - will update soon with some projects 🧐)
 
 ## 🛠 Tools
