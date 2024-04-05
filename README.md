@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align="center">Dedicated Frontend Developer with an Engineering Approach, Student in the Field of Applied Computer Science<br>I'm highly focused on my goals, both in powerlifting and coding, which reflects my strong work ethic. I have a passion for writing clean and efficient code.<br></p>
+<p align="center">Dedicated Frontend Developer with an Engineering Approach, Student in the Field of Applied Computer Science<br>I'm highly focused on my goals, both in coding and powerlifting after hours, which reflects my strong work ethic. I have a passion for writing clean and efficient code.<br></p>
 
 
 ## 🌐 Socials:
