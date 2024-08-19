@@ -1,11 +1,7 @@
-# 💫 About Me:
-<p align="center">Frontend Developer with an engineering mindset, student of applied computer science<br>I'm highly focused on my goals, both in coding and powerlifting after hours, which reflects my strong work ethic. I have a passion for writing clean and efficient code.<br></p>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipburski/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/FlickJS/)   
-
 
 # 💻 Tech Stack:
 My core frontend technologies:<br>
